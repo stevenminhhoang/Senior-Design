@@ -1,1 +1,3 @@
 https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=MSFT&apikey=KBBA4Y08BQPGX1ST
+
+https://api.iextrading.com/1.0/stock/aapl/batch?types=quote,news,chart&range=1m&last=10
