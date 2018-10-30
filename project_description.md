@@ -1,10 +1,9 @@
 # Title of the Project
-### Stalker
+### Stock Predictor
 
 # Team Members
-### Deepansh Pahwa - pahwadh@mail.uc.edu
 ### Mai Truong - truongmi@mail.uc.edu
-### Steven Dao - daohm@mail.uc.edu
+### Hoang Dao - daohm@mail.uc.edu
 ### Yue Chang - Changy6@mail.uc.edu
 
 # Project Background Description
