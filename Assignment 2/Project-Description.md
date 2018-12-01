@@ -5,6 +5,7 @@
 ### Hoang Dao - daohm@mail.uc.edu
 
 # Faculty Advisor
+### Fred Annexstein - annexsfs@ucmail.uc.edu
 ### Ali Minai - minaiaa@gmail.com
 
 # Project Background Description
