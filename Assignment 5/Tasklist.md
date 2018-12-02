@@ -1,4 +1,4 @@
-# Stock Prediction
+# Stock Price Predictor
 | Task | Assigned |
 |---|---|
 | Research current stock prediction apps on the market and look into the technology stack being used to evaluate its pros and cons | Hoang Dao |
