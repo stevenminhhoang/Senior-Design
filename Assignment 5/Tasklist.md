@@ -1,7 +1,6 @@
 # Stock Price Predictor
 | Task | Assigned |
 |---|---|
-
 | 1. Research current stock prediction apps on the market and look into the technology stack being used to evaluate its pros and cons | Hoang Dao |
 | 2. Research different external APIs to determine which reliable sources to collect stock information for the data set used by the application (Google Finance, ) | Hoang Dao |
 | 3. Research different libraries for the LSTM Neural Networks (Keras, Tensorflow, Pandas, Numpy, Matplotlib)
