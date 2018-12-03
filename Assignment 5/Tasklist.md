@@ -2,7 +2,7 @@
 | Task | Assigned |
 |---|---|
 | 1. Research current stock prediction apps on the market and look into the technology stack being used to evaluate its pros and cons | Hoang Dao |
-| 2. Research different external APIs to determine which reliable sources to collect stock information for the data set used by the application (Google Finance, ) | Hoang Dao |
+| 2. Research different external APIs to determine which reliable sources to collect stock information for the data set used by the application (Google Finance, Yahoo Finance, Alpha Vantage API) | Hoang Dao |
 | 3. Research different libraries for the LSTM Neural Networks (Keras, Tensorflow, Pandas, Numpy, Matplotlib) | Hoang Dao |
 | 4. Set up the infrastructure, organize the entire project in a git repository | Hoang Dao |
 | 5. Import and collect stock price dataset for the neural network from the APIs | Hoang Dao |
