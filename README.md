@@ -20,5 +20,5 @@ The models and neural network will be incorporated in an iOS app that users can 
 5.  [Slideshow](https://github.com/stevenminhhoang/Senior-Design/blob/master/Senior%20Design%20Presentation.pptx)
 6.  [Self-Assessment Essays](https://github.com/stevenminhhoang/Senior-Design/blob/master/Hoang_Dao_Self_Assessment.pdf)
 7.  [Professional Biographies](https://github.com/stevenminhhoang/Senior-Design/blob/master/Hoang%20Dao%20Professional%20Biography.md)
-8.  [Budget](https://github.uc.edu/gundlegl/AMS/blob/master/Budget.md)
-9.  [Appendix](https://github.uc.edu/gundlegl/AMS/blob/master/Appendix.md)
+8.  [Budget](https://github.com/stevenminhhoang/Senior-Design/blob/master/Budget.md)
+9.  [Appendix](https://github.com/stevenminhhoang/Senior-Design/blob/master/Appendix.md)
