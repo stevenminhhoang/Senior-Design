@@ -4,8 +4,7 @@
 Stock Price Predictor is a project on technical analysis, visualization and prediction using stock datasets from multiple sources provided by Google Finance. This project aims to utilize Deep Learning models, Long-Short Term Memory (LSTM) machine learning algorithm to estimate stock prices the following day.
 The model will be available to users as a command line interface that can be built and customized in order for users to interact with and try to improve the prediction results. Its performance will be measured and judged based on the difference in predicted stock price in comparison to the actual values of the targeted stock at close price on the market.
 
-**Developer:**
--   Hoang Dao ([daohm@mail.uc.edu](mailto:daohm@mail.uc.edu))
+**Developer:**  Hoang Dao ([daohm@mail.uc.edu](mailto:daohm@mail.uc.edu))
 
 **Faculty Advisor:**  Ali Minai ([minaiaa@gmail.com](mailto:minaiaa@gmail.com))
 
