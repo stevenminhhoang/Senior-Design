@@ -1,4 +1,9 @@
 # Stock Price Predictor
+
+### Senior Design Project Report
+##### Hoang Dao (Developer), Dr. Ali Minai (Advisor)
+
+
 Stock Price Predictor is a project on technical analysis, visualization and prediction using stock datasets from multiple sources provided by Google Finance. This project aims to utilize Deep Learning models, Long-Short Term Memory (LSTM) machine learning algorithm to estimate stock prices the following day.
 The model will be available to users as a command line interface that can be built and customized in order for users to interact with and try to improve the prediction results. Its performance will be measured and judged based on the difference in predicted stock price in comparison to the actual values of the targeted stock at close price on the market.
 
@@ -24,7 +29,7 @@ The model will be available to users as a command line interface that can be bui
 7.  [Assessments](https://github.com/stevenminhhoang/Senior-Design/tree/master/Documents/Assessments)
    - [Initial Assessment](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Assessments/Initial%20Self-Assessments.pdf)
    - [Final Assessment](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Assessments/Final%20Self-Assessments.pdf)
-   
+
 
 ## Summary of Hours
 
