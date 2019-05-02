@@ -10,15 +10,21 @@ The model will be available to users as a command line interface that can be bui
 ## Table of Contents
 
 1. [Project Description](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Project%20Description/Project-Description.md)
+
 2. [User Interface Specification](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/User%20Interface%20Specification/User_Interface_Specification.md)
+
 3. [Test Plan and Results](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Test%20Plan%20and%20Results/Test%20Plan%20and%20Results.pdf)
+
 4.  [User Manual](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/User%20Manual/User_Manual.md)
+
 5.  [Presentation](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Presentation/Senior%20Design%20Presentation.pptx)
+
 6.  [Expo Poster](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Expo%20Poster/Expo%20Poster.pdf)
+
 7.  [Assessments](https://github.com/stevenminhhoang/Senior-Design/tree/master/Documents/Assessments)
    - [Initial Assessment](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Assessments/Initial%20Self-Assessments.pdf)
    - [Final Assessment](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Assessments/Final%20Self-Assessments.pdf)
-8.  [Summary of Hours](https://github.com/stevenminhhoang/Senior-Design/blob/master/Hours.md)
+   
 
 ## Summary of Hours
 
