@@ -1,4 +1,4 @@
-# Stock Price Predictor
+# **Stock Price Predictor**
 
 ### Senior Design Project Report
 ##### Hoang Dao (Developer), Dr. Ali Minai (Advisor)
