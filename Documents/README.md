@@ -1,6 +1,6 @@
 ## Stock Price Predictor
 Stock Price Predictor is a project on technical analysis, visualization and prediction using stock datasets from multiple sources provided by Google Finance. This project aims to utilize Deep Learning models, Long-Short Term Memory (LSTM) machine learning algorithm to estimate stock prices the following day.
-The models and neural network will be incorporated in an iOS app that users can download and use on their mobile devices at any given time. Its performance will be measured and judged based on the difference in predicted stock price in comparison to the actual values of the targeted stock at close price on the market.
+The model will be available to users as a command line interface that can be built and customized in order for users to interact with and try to improve the prediction results. Its performance will be measured and judged based on the difference in predicted stock price in comparison to the actual values of the targeted stock at close price on the market.
 
 **Team:**
 -   Hoang Dao ([daohm@mail.uc.edu](mailto:daohm@mail.uc.edu))
@@ -9,7 +9,7 @@ The models and neural network will be incorporated in an iOS app that users can 
 
 ## Table of Contents
 
-1. [Project Description](https://github.com/stevenminhhoang/Senior-Design/blob/master/Project-Description.md)
+1. [Project Description](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Project-Description.md)
 2. User Stories and Design Diagrams
     -   [User Stories](https://github.com/stevenminhhoang/Senior-Design/blob/master/User_Stories.md)
     -   [Design Diagrams: Level 0, Level 1 and Level 2](https://github.com/stevenminhhoang/Senior-Design/blob/master/Design%20Diagram.pdf)
