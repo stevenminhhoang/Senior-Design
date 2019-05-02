@@ -18,7 +18,7 @@ The model will be available to users as a command line interface that can be bui
 
 4.  [User Manual](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/User%20Manual/User_Manual.md)
 
-5.  [Presentation](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Presentation/Senior%20Design%20Presentation.pptx)
+5.  [Presentation](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Presentation/Senior-Design-Presentation.pdf)
 
 6.  [Expo Poster](https://github.com/stevenminhhoang/Senior-Design/blob/master/Documents/Expo%20Poster/Expo%20Poster.pdf)
 
