@@ -1,6 +1,6 @@
 # User Manual
 
-##FAQ
+## FAQ
 
 ### Is the predicted results from the model accurate and can be used by investors to yield profits?
 From a practical standpoint, my project acts more as a personal project and learning achievements from studying the application of machine learning on finance rather than a complete & commercialized product. This project focuses heavily more on demonstrating how to build and train an RNN model in Tensorflow and less on solving the stock prediction problem. Thus, it can still be vastly improved and is open to further development. Right now, Machine Learning is a developing field and still requires more research in order to be applicable to business & practical uses.
